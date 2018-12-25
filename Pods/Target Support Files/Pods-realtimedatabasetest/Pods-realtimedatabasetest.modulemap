@@ -1,0 +1,6 @@
+framework module Pods_realtimedatabasetest {
+  umbrella header "Pods-realtimedatabasetest-umbrella.h"
+
+  export *
+  module * { export * }
+}
